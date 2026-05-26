@@ -3,11 +3,6 @@
 > Semantic segmentation of human eye capillaries from ophthalmic slit-lamp photographs.
 
 Deep-learning solution built for the **"Digital Breakthrough. Season: AI"** national championship
-(Всероссийский чемпионат «Цифровой прорыв. Сезон: искусственный интеллект»), Vladivostok, 2022.
-The goal: automatically segment blood vessels on eye photographs to assist ophthalmologists, who
-otherwise have to trace and measure vessels by hand.
-
-![Championship diploma](images/diploma.png)
 
 ---
 
