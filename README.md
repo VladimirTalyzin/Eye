@@ -138,8 +138,3 @@ PyTorch · TensorFlow / Keras · `segmentation_models_pytorch` · `segmentation_
 ## License
 
 Released under the [GNU GPL v3](LICENSE).
-
-## Author
-
-**Vladimir Talyzin** — participant of the All-Russian *Digital Breakthrough. Season: AI*
-championship (Vladivostok, 8 September – 6 October 2022).
