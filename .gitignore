@@ -1,0 +1,38 @@
+# Datasets, archives and large binaries (kept out of version control)
+*.zip
+*.pth
+*.ckpt
+*.ckpt.*
+checkpoint
+
+# Model checkpoint directories
+models/
+models-*/
+models_*/
+
+# Generated predictions / intermediate data
+result/
+result_*/
+masks/
+masks-*/
+check/
+check-*/
+green/
+train/
+train8/
+train-*/
+link-train/
+qu_path/
+sample/
+sample-solution/
+sample-solution_old/
+
+# Python
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ipynb_checkpoints/
+
+# IDE
+.idea/
+.vscode/
